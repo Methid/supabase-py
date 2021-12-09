@@ -1,3 +1,0 @@
-[submodule "postgrest-py"]
-	path = postgrest-py
-	url = https://github.com/Methid/postgrest-py.git
