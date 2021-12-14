@@ -9,7 +9,7 @@ license = "MIT"
 python = "^3.7.1"
 postgrest-py = "/postgres-py"
 realtime-py = "^0.1.2"
-gotrue = {git = "https://github.com/supabase-community/gotrue-py.git", rev = "9ba3192dbdccd2f02a4819b52dd6cf51095af7e7"}
+gotrue = "/gotrue-py"
 httpx = "^0.19.0"
 
 [tool.poetry.dev-dependencies]
